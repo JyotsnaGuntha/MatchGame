@@ -1,3 +1,17 @@
+# 🎮 Match Game - ReactJS
+
+A fast-paced image matching game built with ReactJS. Test your memory and reflexes by matching thumbnails with a randomly displayed image within a 60-second countdown.
+
+## 🕹️ Features
+
+- Real-time countdown timer  
+- Dynamic image rendering  
+- Category-based tab filtering (Fruits, Animals, Places)  
+- Score tracking with instant feedback  
+- Mobile responsive & visually engaging UI  
+
+🔁 Click **Play Again** to reset and beat your high score!
+
 ### Refer to the video below:
 
 <br/>
